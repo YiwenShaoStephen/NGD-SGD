@@ -1,0 +1,12 @@
+# compiled objects
+__pycache__/*
+*.pyc
+
+# emacs saves
+[#]*[#]
+.[#]*
+*~
+
+# experiment files
+/examples/*/exp
+/examples/*/data
